@@ -9,9 +9,11 @@ The source node radius
 The maximum angle a new node can branch from their parent's direction
 The maximum number of children a node can sprout
 
-**Below are a few examples of images the algorithm generated.**
-
 Note: this code is leans heavily on inspiration from work done by Anders Hoff's. See inconvergent.net.
 
-!["hello"](save_images/single_source/hyphae.png)
+**Here are a few examples of images the algorithm generated.**
+
+![](save_images/single_source/hyphae.png)
+
+![](save_images/multiple_source/hyphae.png)
  

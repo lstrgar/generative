@@ -21,5 +21,4 @@ Note: this code is leans heavily on inspiration from work done by Anders Hoff's.
 
 ![](save_images/single_source/hyphae_0.93RadiusFactor.png)
 
-![](save_images/single_source/hyphae_0.98RadiusFactor.png)
 

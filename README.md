@@ -13,5 +13,5 @@ The maximum number of children a node can sprout
 
 Note: this code is leans heavily on inspiration from work done by Anders Hoff's. See inconvergent.net.
 
-!["hello"]("save_images/single_source/hyphae.png")
+!["hello"](save_images/single_source/hyphae.png)
  

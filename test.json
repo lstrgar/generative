@@ -1,0 +1,59 @@
+{
+	"bounds": {
+		"spline": null,
+		"locs": {
+			"rand": null,
+			"pts": [
+				{
+					"x": null,
+					"y": null
+				}
+			]
+		},
+		"circle": null,
+		"poly": null,
+		"sides": null
+	},
+	"source": {
+		"num": null,
+		"locs": {
+			"rand": null,
+			"pts": [
+				{
+					"x": null,
+					"y": null
+				}
+			]
+		},
+		"rad": {
+			"range": null,
+			"max": null,
+			"val": null
+		}
+	},
+	"growth": {
+		"cmax": null,
+		"ang": {
+			"range": null,
+			"max": null,
+			"val": null
+		},
+		"dist": {
+			"range": null,
+			"max": null
+		},
+		"coll": {
+			"range": null,
+			"max": null,
+			"min": null,
+			"add": null,
+			"mult": null,
+			"val": null
+		},
+		"rad": {
+			"range": null,
+			"min": null,
+			"val": null
+		}
+	}
+}
